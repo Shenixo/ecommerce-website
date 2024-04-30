@@ -150,7 +150,7 @@
     transform: translateY(0px);
     animation: float 6s ease-in-out infinite;
   }
-  @keframes float{
+  @keyframes float{
     0%{
       transform: translateY(0px);
     }
